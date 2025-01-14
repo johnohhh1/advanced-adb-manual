@@ -1,0 +1,23 @@
+﻿# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+site/
+dist/
+build/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.env
+.venv
+venv/
+ENV/
